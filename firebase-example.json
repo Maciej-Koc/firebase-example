@@ -1,0 +1,14 @@
+//Example for setting up firebase for new collection
+//This will be a guide for implementing a reporting feature
+//JSON file
+
+{
+  "post": [
+    {
+      "userid": "0278asdsaod8jk2",
+      "comment": "This post is amazing",
+      "timestamp": "October 12, 2022 at 4:00:01 PM UTC-5",
+      "username": "Teacher",
+    }
+    ]
+}
